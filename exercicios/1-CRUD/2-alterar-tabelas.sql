@@ -1,2 +1,2 @@
 ALTER TABLE employees
-ADD id_salario INTEGER; 
+ADD id_salario INTEGER;
